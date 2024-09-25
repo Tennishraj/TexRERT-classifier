@@ -1,0 +1,38 @@
+[
+    {
+        "text": "This is a sample Python code snippet.",
+        "label": "code"
+    },
+    {
+        "text": "This is a general sentence.",
+        "label": "text"
+    },
+    {
+        "text": "This is a general sentence.",
+        "label": "text"
+    },
+    {
+        "text": "This is a general sentence.",
+        "label": "text"
+    },
+    {
+        "text": "This is a general sentence.",
+        "label": "text"
+    },
+    {
+        "text": "This is a general sentence.",
+        "label": "text"
+    },
+    {
+        "text": "This is a general sentence.",
+        "label": "text"
+    },
+    {
+        "text": "This is a general sentence.",
+        "label": "text"
+    },
+    {
+        "text": "This is a general sentence.",
+        "label": "text"
+    }
+]
